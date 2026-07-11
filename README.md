@@ -1,4 +1,4 @@
-# IPF Detection using Machine Learning
+# Pulmonary Fibrosis FVC Prediction using Deep Learning
 
 > Early detection of Idiopathic Pulmonary Fibrosis (IPF) using CT scan images and tabular clinical data, implemented with dual-branch deep learning models.
 
